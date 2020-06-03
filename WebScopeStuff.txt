@@ -1,0 +1,4 @@
+*.mi.com
+*.miui.com
+*.xiaomiyoupin.com
+*.miwifi.com
